@@ -11,7 +11,7 @@ public class BankApplication {
     public static void main(String[] args) {
         SpringApplication.run(BankApplication.class, args);
 
-//gjgsnrf 2
+//gjgsnrf 3
         // Подключение к базе данных и заполнение данных в базу доделать сегодня
         // DBH2Manager dBH2Manager = new DBH2Manager();
 
